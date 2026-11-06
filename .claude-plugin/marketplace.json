@@ -1,0 +1,6 @@
+{
+  "name": "next-prompt",
+  "description": "The next-prompt mod for Claude Code: a guessed next prompt after each reply",
+  "owner": { "name": "Titorias97" },
+  "plugins": [{ "name": "next-prompt", "source": "./" }]
+}

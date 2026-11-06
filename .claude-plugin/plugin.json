@@ -1,0 +1,9 @@
+{
+  "name": "next-prompt",
+  "version": "0.1.0",
+  "description": "Guesses your next prompt after each turn and offers it above the message box, one click to send",
+  "author": { "name": "Titorias97" },
+  "license": "MIT",
+  "homepage": "https://github.com/Titorias97/next-prompt",
+  "types": "./types/index.d.ts"
+}
